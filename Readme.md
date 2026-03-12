@@ -15,6 +15,14 @@
 - Utilizar algoritmos em conjunto para resolver um problema de programação
 - Aprender os conceitos básicos para a análise de complexidade de algoritmos
 
+### Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca
+
+- Aprender mais exemplos de algoritmos de ordenação e busca
+- Entender os conceitos e paradigmas por trás dos algoritmos estudados
+- Desenvolver a prática de traduzir a lógica do algoritmo em código
+- Analisar o código de um algoritmo para entender sua complexidade
+- Ver como os algoritmos resolvem problemas de computação
+
 ## 🖥️ Tecnologias
 
 <div>
